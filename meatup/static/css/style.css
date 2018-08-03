@@ -1,6 +1,9 @@
 html, body {
   height: 100%;
 }
+h3{
+  outline: black;
+}
 
 h1{
   text-align: center;
